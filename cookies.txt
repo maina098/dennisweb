@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.www.sovrn.com	TRUE	/	FALSE	1999999999	__cf_bm	lotF4uqXt5VG12EWxQQhLT_.ykF9eDWlHXbca9s2vOU-1766706706-1.0.1.1-l4wv1G29yuvW4FVVGCIXWmCTuAak3gbgzzikYrhpBqF.z40HLQ04LoGG_DfDipIPRJrV7ItNXNSRyAwthEmsNQY72CN4t3bJBsoLGRGMhwM
+www.sovrn.com	TRUE	/	FALSE	1999999999	SameSite	None
+
